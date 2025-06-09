@@ -3,7 +3,7 @@
 <h3 align="center">Backend Engineer | Based in India</h3>
 
 <!-- Brief Bio -->
-<p align="center">🚀 Creating scalable backend systems with <strong>Go</strong> and <strong>Java</strong> and learning <strong>Cloud-Native</strong> concepts in <strong>Go</strong> </p>
+<p align="center">🚀 Creating scalable and cloud native backend systems with <strong>Go</strong> and <strong>Java</strong></p>
 <p align="center">💬 Open to opportunities in <strong>backend development and distributed systems</strong></p>
 
 <!-- Contact Section -->
