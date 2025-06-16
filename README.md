@@ -43,7 +43,7 @@
 
 <!-- Language Stats -->
 <h3 align="center">📊 Most Used Languages</h3>
-<p align="center" style="background: #667eea; padding: 20px;">
+<p align="center" style="background: #cce8cc; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavcodes&layout=compact&bg_color=667eea&title_color=ffffff&text_color=ffffff" alt="Top Languages">
 </p>
 
